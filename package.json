@@ -1,0 +1,38 @@
+{
+  "name": "express-uploadfiles",
+  "version": "1.0.0",
+  "description": "It is midleware to express. To upload files to a given directory. It uses streaming methods that allows you to download large files with a small amount of RAM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siarheidudko/express-uploadfiles.git"
+  },
+  "keywords": [
+    "express",
+    "upload",
+    "file",
+    "big",
+    "files",
+    "fs",
+    "stream"
+  ],
+  "author": "Siarhei Dudko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/siarheidudko/express-uploadfiles/issues"
+  },
+  "homepage": "https://github.com/siarheidudko/express-uploadfiles#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mkdirp": "^0.5.1",
+    "multiparty": "^4.2.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "express": "^4.16.3",
+    "http": "0.0.0"
+  }
+}
