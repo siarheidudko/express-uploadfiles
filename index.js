@@ -18,7 +18,7 @@ var UploadFiles = function(_settings){
 	
 	var self = this;
 	
-	this.options = { path: PATH.join(__dirname, 'tmp'), usekeyasname: false };
+	this.options = { path: PATH.join(process.cwd(), 'tmp'), usekeyasname: false };
 	for(const key in _settings){
 		this.options[key] = _settings[key];
 	}
