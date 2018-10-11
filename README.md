@@ -74,8 +74,8 @@ It is midleware to express. To upload files to a given directory. It uses stream
 	usekeyasname: false
 }
 ```
-path - file upload directory
-usekeyasname - when saving, use the form data keys as file names
+- path - file upload directory
+- usekeyasname - when saving, use the form data keys as file names
 
 example shows default settings
 
