@@ -1,4 +1,4 @@
 $ cat .gitignore
-.tmp.drivedownload
 node_modules
 tmp
+.tmp.drivedownload
