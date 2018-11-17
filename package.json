@@ -1,6 +1,6 @@
 {
   "name": "express-uploadfiles",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "It is midleware to express. To upload files to a given directory. It uses streaming methods that allows you to download large files with a small amount of RAM.",
   "main": "index.js",
   "scripts": {

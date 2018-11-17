@@ -1,6 +1,12 @@
 ﻿﻿
 # Express-Uploadfiles
 It is midleware to express. To upload files to a given directory. It uses streaming methods that allows you to download large files with a small amount of RAM.
+  
+[![npm](https://img.shields.io/npm/v/express-uploadfiles.svg)](https://www.npmjs.com/package/express-uploadfiles)
+[![npm](https://img.shields.io/npm/dy/express-uploadfiles.svg)](https://www.npmjs.com/package/express-uploadfiles)
+[![NpmLicense](https://img.shields.io/npm/l/express-uploadfiles.svg)](https://www.npmjs.com/package/express-uploadfiles)
+![GitHub last commit](https://img.shields.io/github/last-commit/siarheidudko/express-uploadfiles.svg)
+![GitHub release](https://img.shields.io/github/release/siarheidudko/express-uploadfiles.svg)
 
 ## Install
 
